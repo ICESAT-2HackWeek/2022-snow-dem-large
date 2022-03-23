@@ -1,2 +1,2 @@
-Snow Depth measurements for two stations in Grand Mesa 2016-2022:
+Snow Depth measurements (.csv directoy) for two stations in Grand Mesa 2016-2022:
 https://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customMultipleStationReport,metric/daily/start_of_period/622:CO:SNTL%7C682:CO:SNTL%7Cid=%22%22%7Cname/2016-01-01,2022-03-23/name,stationId,latitude,longitude,elevation,SNWD::value
