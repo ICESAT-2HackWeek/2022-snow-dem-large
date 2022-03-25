@@ -1,8 +1,12 @@
 # snow_dem_large
-Working group to investigate the influence of DEM choice and other details on estimates of snow depth using ICESat-2
+Working group to investigate the influence of DEM choice and other details on estimates of snow depth using ICESat-2.
 
 ## General Objective
-To develop and evaluate methodology to estimate snow depths using ICESat-2 products. 
+To develop and evaluate methodology for estimating snow depths using ICESat-2 ATL08 and a variety of DEMs. 
+
+## Current To-Do's & Obstacles (as of 25 March 2022)
+- Coregister of ICESat-2 tracks and DEMs!
+- Refine, aggregate individual notebooks into more efficient workflow (edit`notebooks/project_final.ipynb`)
 
 ## Collaborators
 
@@ -22,10 +26,11 @@ To develop and evaluate methodology to estimate snow depths using ICESat-2 produ
 
 ## DataSets
 
-* ICESat-2 [ATLO8](https://nsidc.org/data/atl08)
-* ICASat-2 [ATL06](https://nsidc.org/data/atl06) 
-* [SNOTEL](https://www.wcc.nrcs.usda.gov/snow/)
-* DEM info goes here
+* NASA ICESat-2 [ATLO8](https://nsidc.org/data/atl08) (via NSIDC)
+* USDA [SNOTEL](https://www.wcc.nrcs.usda.gov/snow/) (via CUAHSI's `ulmo`)
+* Copernicus DEM (via OpenTopography)
+* USGS SRTM DEM (via Google Earth Engine)
+* NASA JPL Airborne Space Observatory
 
 ## Study Sites:
 * Mores Creek Summit, ID
