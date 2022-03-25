@@ -20,22 +20,12 @@ To develop and evaluate methodology to estimate snow depths using ICESat-2 produ
 #### Team Lead
 [Karina Zikan](https://github.com/khzikan)
 
-#### Data Science Leads
-
-
-
 ## DataSets
 
 * ICESat-2 [ATLO8](https://nsidc.org/data/atl08)
 * ICASat-2 [ATL06](https://nsidc.org/data/atl06) 
 * [SNOTEL](https://www.wcc.nrcs.usda.gov/snow/)
 * DEM info goes here
-
-## Tools
-
-
-## High-level Goals (Tentative)
-
 
 ## Study Sites:
 * Mores Creek Summit, ID
