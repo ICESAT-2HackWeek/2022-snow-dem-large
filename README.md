@@ -19,10 +19,7 @@ To develop and evaluate methodology for estimating snow depths using ICESat-2 AT
 * [Verenis Lucas](https://github.com/vereluca)
 * [Sangita Singh Tomar](https://github.com/SangitaSingh)
 * [Kehan Yang](https://github.com/KehanGit)
-
-
-#### Team Lead
-[Karina Zikan](https://github.com/khzikan)
+* [Karina Zikan](https://github.com/khzikan)
 
 ## DataSets
 
